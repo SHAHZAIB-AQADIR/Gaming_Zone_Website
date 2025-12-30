@@ -2,7 +2,7 @@ import GameCard from "@/app/components/GameCard/GameCard";
 
 const games = [
   { title: "VALORANT", img: "/VALORANT.png", link: "/games/valorant" },
-  { title: "FORZA", img: "/Forza.png", link: "/games/forza" },
+  { title: "FORZA", img: "/FORZA.png", link: "/games/forza" },
   { title: "CS-GO", img: "/csgo.png", link: "/games/csgo" },
   { title: "GTA-V", img: "/GTA5.png", link: "/games/gta5" },
   { title: "Fortnite", img: "/Fortnite.png", link: "/games/fortnite" },
